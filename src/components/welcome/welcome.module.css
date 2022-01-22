@@ -1,0 +1,9 @@
+.welcome {
+    display: flex;
+    background-color: lightyellow;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.welcomeText {font-size: 36px;}

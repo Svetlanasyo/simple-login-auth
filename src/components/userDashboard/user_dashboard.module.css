@@ -1,0 +1,9 @@
+.userDashboard {
+    display: flex;
+    background-color: lightyellow;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.userDashboardText {font-size: 36px;}
